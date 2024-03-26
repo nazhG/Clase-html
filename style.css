@@ -1,0 +1,44 @@
+
+
+body {
+    background-color: pink;
+}
+
+ /* el punto "." significa que estoy trabajando clases */
+.contenedor-textos {
+    background-color: white;
+}
+
+.size {
+    font-size: 40px;
+}
+
+.negritas {
+    /* font-weight: 100;
+    font-weight: 200;
+    font-weight: 300;
+    font-weight: 400;
+    font-weight: 500; */
+    font-weight: 600;
+}
+
+.cursiva {
+    font-style: italic;
+}
+.subrayado {
+    text-decoration: underline;
+}
+.tachado {
+    text-decoration: line-through;
+}
+.capital {
+    text-transform: uppercase;
+}
+
+.p {
+    background-color: red;
+}
+
+.span {
+    background-color: blue;
+}
